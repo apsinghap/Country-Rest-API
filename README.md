@@ -22,10 +22,9 @@ git clone - repo url
 # Endpoints
 1. Authentication
    ```json
-   {
-  "username": "your_username",
-  "password": "your_password"
-  ``` 
+   {"username": "your_username","password": "your_password"
+   
+   ``` 
 
 
 2. Fetch Detailed Information about a Specific Country.

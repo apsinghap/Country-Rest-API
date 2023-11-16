@@ -29,7 +29,7 @@ git clone - repo url
   "username": "your_username",
   "password": "your_password"
   }
-```
+
 2. Fetch Detailed Information about a Specific Country.
 3. Retrieve a List of Countries
 

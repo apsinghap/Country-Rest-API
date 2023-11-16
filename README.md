@@ -14,16 +14,15 @@ Navigate to the project directory:
 
 bash
 Copy code
-cd country-data-api
-Install dependencies:
 
-bash
-Copy code
+## Install dependencies:
+
+
+'''
 npm install
 Run the application:
+'''
 
-bash
-Copy code
 npm start
 The server will start running on http://localhost:3000.
 
@@ -82,7 +81,7 @@ Copy code
   },
   // ... additional countries
 ]
-Error Handling
+ # Error Handling
 If the authentication fails or the auth token is not present, the API returns a 401 Unauthorized error.
 
 If the REST Countries API request fails or returns an error, the API returns a 500 Internal Server Error with a descriptive error message.

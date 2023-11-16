@@ -21,18 +21,31 @@ git clone - repo url
 
 # Endpoints
 1. Authentication
+Request:
    ```json
    {
    "username": "your_username",
    "password": "your_password"
    }
    ``` 
+Responce:
+```json
+{
+  "token": "your_generated_token"
+}
+```
 
 
 2. Fetch Detailed Information about a Specific Country.
+```
+GET /country/:country_name
+
+```
 3. Retrieve a List of Countries
-
-
+```
+GET /countries?page=1&per_page=10&population=100000&sort=asc
+Authorization: your_generated_token
+```
 
 
  # Error Handling

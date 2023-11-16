@@ -25,14 +25,13 @@ git clone - repo url
 # Endpoints
 1. Authentication
    ```
-request
    {
   "username": "your_username",
   "password": "your_password"
   }
 ```
-1. Fetch Detailed Information about a Specific Country.
-2. Retrieve a List of Countries
+2. Fetch Detailed Information about a Specific Country.
+3. Retrieve a List of Countries
 
 
 

@@ -7,7 +7,7 @@ npm (Node Package Manager) installed.
 Getting Started
 # Clone the repository:
 
-git clone <repository-url>
+git clone - repo url
 
 
 
@@ -15,22 +15,22 @@ git clone <repository-url>
 ## Install dependencies:
 
 
-'''
-npm install
-Run the application:
-'''
 
-npm start
-The server will start running on http://localhost:3000.
+1.npm install
+1.Run the application:
+
+1.npm start
+1.The server will start running on http://localhost:3000.
 
 # Endpoints
 1. Authentication
+   ```request
    {
   "username": "your_username",
   "password": "your_password"
-  }
-2. Fetch Detailed Information about a Specific Country.
-3. Retrieve a List of Countries
+```
+1. Fetch Detailed Information about a Specific Country.
+2. Retrieve a List of Countries
 
 
 

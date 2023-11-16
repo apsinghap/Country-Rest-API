@@ -41,7 +41,6 @@ If the authentication fails or the auth token is not present, the API returns a 
 If the REST Countries API request fails or returns an error, the API returns a 500 Internal Server Error with a descriptive error message.
 Security Considerations
 In a production environment, ensure that sensitive information (e.g., credentials, tokens) is handled securely using environment variables.
-
 Implement additional security measures such as HTTPS for secure communication.
 
 

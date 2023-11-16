@@ -16,11 +16,11 @@ git clone - repo url
 
 
 
-1.npm install
-1.Run the application:
++ npm install
++ Run the application:
 
-1.npm start
-1.The server will start running on http://localhost:3000.
++ npm start
++ The server will start running on http://localhost:3000.
 
 # Endpoints
 1. Authentication
@@ -28,7 +28,7 @@ git clone - repo url
    {
   "username": "your_username",
   "password": "your_password"
-  }
+  }```
 
 2. Fetch Detailed Information about a Specific Country.
 3. Retrieve a List of Countries

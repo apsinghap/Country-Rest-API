@@ -24,7 +24,8 @@ git clone - repo url
 
 # Endpoints
 1. Authentication
-   ```request
+   ```
+request
    {
   "username": "your_username",
   "password": "your_password"

@@ -18,18 +18,15 @@ git clone - repo url
 2. Run the application with npm start
 3. The server will start running on http://localhost:3000.
 
-```javascript
-const greeting = "Hello, World!";
-console.log(greeting);
-```
+
 # Endpoints
 1. Authentication
-   ```
+   ```json
    {
   "username": "your_username",
   "password": "your_password"
-  }  
-```
+  } ``` 
+
 
 2. Fetch Detailed Information about a Specific Country.
 3. Retrieve a List of Countries

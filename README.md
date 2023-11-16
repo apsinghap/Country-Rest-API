@@ -29,6 +29,7 @@ request
    {
   "username": "your_username",
   "password": "your_password"
+  }
 ```
 1. Fetch Detailed Information about a Specific Country.
 2. Retrieve a List of Countries
